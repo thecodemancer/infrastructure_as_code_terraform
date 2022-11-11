@@ -1,4 +1,4 @@
-# Infraestructura como Código utilizando Terraform
+# AwesomeFest2022 - Infraestructura como Código utilizando Terraform
 
 <img src="images/twitter.png" />
 
