@@ -11,7 +11,7 @@ Al final de la Masterclass te entregaremos un material con los highlights para q
 
 ### Speaker:
 
-David Regalado - Founder de Data Engineering Latam
+[David Regalado](https://beacons.ai/davidregalado) - Founder de [Data Engineering Latam](https://beacons.ai/dataengineeringlatam)
 
 Únete a una Awesome Masterclass, un espacio exclusivo y con cupos limitados.
 
