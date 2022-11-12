@@ -1,5 +1,5 @@
 resource "google_compute_instance" "terraform" {
-  project = "<PROJECT_ID>"
+  project = "<PROJECT_ID>" # reemplazar por el id del proyecto
   name    = "terraform"
   #machine_type = "n1-standard-1"
   machine_type = "f1-micro"
@@ -7,7 +7,7 @@ resource "google_compute_instance" "terraform" {
 
   boot_disk {
     initialize_params {
-      image = "debian-cloud/debian-9"
+      image = "debian-cloud/debian-9" #cambiar 9 por 10 en caso de error
     }
   }
 
